@@ -1,0 +1,3 @@
+
+up:
+	pnpm run dev
